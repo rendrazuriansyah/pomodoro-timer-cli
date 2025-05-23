@@ -59,9 +59,9 @@ Press [p]ause, [r]esume, [s]kip, [q]uit
 ## 🛠️ Built With
 
 - **Node.js**: Runtime.
-- [`chalk`](<https://www.google.com/search?q=%5Bhttps://www.npmjs.com/package/chalk%5D(https://www.npmjs.com/package/chalk)>): Terminal styling.
-- [`moment`](<https://www.google.com/search?q=%5Bhttps://www.npmjs.com/package/moment%5D(https://www.npmjs.com/package/moment)>): Time formatting.
-- [`node-notifier`](<https://www.google.com/search?q=%5Bhttps://www.npmjs.com/package/node-notifier%5D(https://www.npmjs.com/package/node-notifier)>): Desktop notifications.
+- [`chalk`](https://www.npmjs.com/package/chalk): Terminal styling.
+- [`moment`](https://www.npmjs.com/package/moment): Time formatting.
+- [`node-notifier`](https://www.npmjs.com/package/node-notifier): Desktop notifications.
 - `readline`: Interactive input.
 - `path`: File path handling.
 
@@ -77,4 +77,4 @@ Ensure tests are updated and code style is consistent.
 
 ## 📄 License
 
-This project is under the **MIT License**. See [LICENSE](https://www.google.com/search?q=LICENSE) for details.
+This project is under the **MIT License**. See [LICENSE](LICENSE) for details.
